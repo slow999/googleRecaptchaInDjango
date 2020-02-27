@@ -1,0 +1,3 @@
+
+user: admin
+pwd: adminpassword
