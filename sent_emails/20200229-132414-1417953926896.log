@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8010
+From: Account Support <accountsupport@gmail.com>
+To: admin@gmail.com
+Date: Sat, 29 Feb 2020 19:24:14 -0000
+Message-ID: <158300425495.18244.7855144093287801356@DESKTOP-VOCQUQA>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8010.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8010/accounts/reset/MQ/5ee-2a137257520346e07eff/
+
+Your username, in case you've forgotten: admin
+
+Thanks for using our site!
+
+The 127.0.0.1:8010 team
+
+
+
+-------------------------------------------------------------------------------
