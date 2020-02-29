@@ -19,7 +19,7 @@ from landing import views
 
 
 urlpatterns = [
-    path(r'^$', views.home, name='home'),
+    path('', views.home, name='home'),
     path('admin/', admin.site.urls),
     path('landing/', include('landing.urls', namespace='landing')),
     path('accounts/password_reset/', views.PasswordResetGoogleRecaptchaView.as_view(),
